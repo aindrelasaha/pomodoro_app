@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ### Features
-1. Allows you to set a time.
+1. Allows you to set a time using the Pomodoro technique.
 
 
 ### Upcoming Features:-
