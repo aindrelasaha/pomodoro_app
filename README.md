@@ -1,6 +1,5 @@
-# pomodoro_app
-
-A new Flutter project.
+# Pomodoro App
+Application that let's you focus on your work for a given amount of time period, that you can set. It increases productivity of a person by 50%.
 
 ## Getting Started
 
@@ -14,3 +13,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### Features
+1. Allows you to set a time.
+
+
+### Upcoming Features:-
+- [ ] Study calender to show Total Study history and Total Study Time.
+- [ ] Custom Study Routine Planner, along with my Todo list app.
