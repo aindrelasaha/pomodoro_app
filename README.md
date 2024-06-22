@@ -58,5 +58,5 @@ This is based on the Pomodoro technique taking intervals after stretches of work
 
 
 ## Support🛠️
-For any questions or issues, please [contact us](mailto:aindrelasaha@example.com) or [open an issue](https://github.com/yourusername/study_time_app/issues) on GitHub.
+For any questions or issues, please [contact us](mailto:aindrelasaha@example.com) or [open an issue](https://github.com/aindrelasaha/pomodoro_app/issues) on GitHub.
 
