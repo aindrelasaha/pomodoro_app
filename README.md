@@ -1,10 +1,10 @@
-# MEOWDORO (Your Ultimate Pomodoro App)
+# MEOWDORO (Your Ultimate Pomodoro App)📱
 
-## Project Description
+## Project Description📝
 The Pomodoro Application is a productivity tool designed to help users focus and increase their efficiency by up to 50%. A study tool to boost up your productivity.
 
 
-### Features:-
+### Features🌟:-
 
  *Changing between Modes*
 
@@ -15,24 +15,24 @@ This is based on the Pomodoro technique taking intervals after stretches of work
 
 - Being built on flutter it leverages the usability of cross-platform enabling a seamless experience on all platforms alike.
 
-## Upcoming Features
+## Upcoming Features🔜🚀
 
-1.⁠ ⁠Study Calendar
+1.⁠ ⁠Study Calendar📆
    - View and manage study sessions over time.
    - Track daily, weekly, and monthly study goals.
    - Visualize study progress and achievements.
 
-2.⁠ ⁠Total Study History
+2.⁠ ⁠Total Study History📜
    - Detailed records of all study sessions.
    - Statistics on study duration, subjects, and performance trends.
    - Insights to improve study habits and productivity.
 
-3.⁠ ⁠Custom Study Routine Planner
+3.⁠ ⁠Custom Study Routine Planner✨
    - Plan study sessions based on personal preferences and goals.
    - Set reminders and notifications for study times.
    - Flexibility to adjust routines based on changing priorities.
 
-4.⁠ ⁠Integration with Todo List
+4.⁠ ⁠Integration with Todo List☑️📃
    - Combine study schedules with tasks and deadlines.
    - Prioritize tasks and allocate study time accordingly.
    - Seamless workflow management for academic and personal tasks.
@@ -47,6 +47,6 @@ This is based on the Pomodoro technique taking intervals after stretches of work
 
 
 
-## Support
+## Support🛠️
 For any questions or issues, please [contact us](mailto:aindrelasaha@example.com) or [open an issue](https://github.com/yourusername/study_time_app/issues) on GitHub.
 
