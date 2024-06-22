@@ -41,8 +41,6 @@ Contributions and feedback are welcome! Here's how you can contribute to the pro
 3. Make changes and test thoroughly.
 4. Submit a pull request detailing your changes and improvements.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 For any questions or issues, please [contact us](mailto:your-email@example.com) or [open an issue](https://github.com/yourusername/study_time_app/issues) on GitHub.
