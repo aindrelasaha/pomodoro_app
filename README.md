@@ -42,10 +42,6 @@ Contributions and feedback are welcome! Here's how you can contribute to the pro
 4. Submit a pull request detailing your changes and improvements.
 
 
-## Support
-For any questions or issues, please [contact us](mailto:your-email@example.com) or [open an issue](https://github.com/yourusername/study_time_app/issues) on GitHub.
 
 ---
 
-Feel free to customize the content based on your project specifics. This template provides a structured approach to documenting your Study Time Application, making it easier for users and contributors to understand its features and how they can participate in its development.
- oi links gulo add korte hobe
