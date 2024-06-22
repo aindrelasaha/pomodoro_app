@@ -2,6 +2,10 @@
 
 ## Project Description📝
 The Pomodoro Application is a productivity tool designed to help users focus and increase their efficiency by up to 50%. A study tool to boost up your productivity.
+![image](https://github.com/aindrelasaha/pomodoro_app/assets/126545390/7088084f-0951-4714-873d-8168bcad90e2)
+![image](https://github.com/aindrelasaha/pomodoro_app/assets/126545390/9e15a87a-945e-4384-b9a4-dbe109113fde)
+
+
 
 
 ### Features🌟:-
@@ -9,9 +13,15 @@ The Pomodoro Application is a productivity tool designed to help users focus and
  *Changing between Modes*
 
 - Enables the user to efficiently switch between light and dark modes to provide a good UI experience.
+![image](https://github.com/aindrelasaha/pomodoro_app/assets/126545390/eb8f56eb-898e-4163-b284-bbb4f65e4f27)
+![image](https://github.com/aindrelasaha/pomodoro_app/assets/126545390/038fc318-14a7-437f-9a1e-92312c2532ed)
+
+
 
 - Provides the user a prompt message to take a break after a certain point of time so that the user can study without fatigue.
 This is based on the Pomodoro technique taking intervals after stretches of work.
+![image](https://github.com/aindrelasaha/pomodoro_app/assets/126545390/e94ffcf7-468b-46cd-8cb3-3e75c7227f34)
+
 
 - Being built on flutter it leverages the usability of cross-platform enabling a seamless experience on all platforms alike.
 
